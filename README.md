@@ -1,4 +1,4 @@
-Assignment 2 of the course Getting and Cleaning Data at Coursera
+Course Project for the course Getting and Cleaning Data at Coursera
 
 To use the script run_analysis.R perform the following steps:
 
